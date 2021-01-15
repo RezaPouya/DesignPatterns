@@ -1,0 +1,34 @@
+﻿Bridge Design Pattern : 
+--------------------------------------------------------------------------
+Bridge is a structural design pattern that lets you split a large class 
+or a set of closely related classes into two separate hierarchies—abstraction
+and implementation—which can be developed independently of each other.
+
+-------------------------------------------------------------------------
+
+Use the Bridge pattern when:
+    - we need avoid a permenant binding between an abstraction and an implementaion.
+    - both abstraction and their implementaion should be extensible .
+    - no impact on clients .
+    - we need to share the implementaion among multiple objects
+    - we need to hide the implementaion of an abstraction completly from clients .
+    - you want run-time binding of the implementation,
+    - you have a proliferation of classes resulting from a coupled interface and numerous implementations,
+    - you want to share an implementation among multiple objects,
+    - you need to map orthogonal class hierarchies.
+
+Consequences include:
+    - decoupling the object's interface,
+    - improved extensibility (you can extend (i.e. subclass) the abstraction and implementation hierarchies independently),
+    - hiding details from clients.
+
+Bridge is a synonym for the "handle/body" idiom.
+This is a design mechanism that encapsulates an implementation class 
+inside of an interface class. 
+The former is the body, and the latter is the handle. 
+The handle is viewed by the user as the actual class, 
+but the work is done in the body. 
+"The handle/body class idiom may be used to decompose 
+a complex abstraction into smaller, more manageable classes. 
+The idiom may reflect the sharing of a single resource 
+by multiple classes that control access to it (e.g. reference counting)."

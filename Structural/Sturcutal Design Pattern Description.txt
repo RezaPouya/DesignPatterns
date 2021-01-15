@@ -1,0 +1,65 @@
+Structural Design Pattern :
+---------------------------------------------------------------------------------------------------------
+	- Structural Design Patterns are design patterns that ease 
+	  the design by idnetifying a simple way to realize repaltionships between entities .
+	- Flexible interconnecting modules which can work together in large system.
+	- Structural patterns describe how classes and object form larger structuers.
+
+
+Gang of Four Identified structural design patterns:
+	- Adapter
+	- Bridge 
+	- Composite
+	- Decorator ( Wrapper )
+	- Facade 
+	- Flyweight 
+	- Proxy  	
+
+-----------------------------------------------------------------------------------------------------
+
+Adapter :
+	"Match interfaces of diffrent classes" 
+	And adapter allows two incompatible interfaces to work together . 
+
+
+Bridge :
+	"Seperates an object's interface from its implementaion."
+	- The bridge uses encapsulation , aggregation , and can use inheritance to seperate responsibilites.
+	- Decouple and abstraction from its implementaion. ( can be thought of two layer of abstraction ) 
+	
+
+Composite :
+	" A tree structure of simple an composite objects" 
+	- Enables hierarchical tree structures of varying complexity 
+	- Group of object are treated in the same way as a single instance of an object. 
+	- Difference between compositions of objects and individual objects is hidden from client.
+
+Decorator :
+	" Add responsibilities to an object dynamically " 
+	
+
+Facade : 
+	" A single class that represents an entir subsystem . "
+	- The facade pattern defines a higher-level single interface.
+	- reduce coupling between subsystems 
+	
+
+Flyweight :
+	"a fine grained instance used for effecianet sahring"
+	- Flyweight pattern allows the program to avoid the expense of multiple instances that contain the 
+	  same information by sharing one instance . 
+	- The Flyweight pattern focuses on sharing for efficiency.
+	- Difference between composition of objects and individual objects is hidden from clients.
+ 
+
+Proxy :
+	"An object representing another object "
+	- The proxy pattern provides an place holder of substitude object to control access to the original object
+	- The proxy pattern is used when we would need more verstile or sophisticated reference to an object than
+	  simple pointer . 
+	- remote proxy 
+	- watcher proxy ( most common proxy ) 
+	
+
+
+	

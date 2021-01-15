@@ -1,0 +1,32 @@
+﻿
+
+Factory Pattern :
+
+	Gang of Four  :
+	"Define an interface for creating an object , but let subclasses decide which class to instantiate.
+	The Factory method lets a class to defer instantiation it uses to sublcasses." 
+
+	"Factory Pattern is one of the most used design patterns in real world applications"
+
+	Factory pattern creates object without exposing the creation logic to the client and refer to newly
+	created object using a common interface.
+
+
+	|Client| -- uses -- |Factory|  -- creates -- |product|
+
+
+------------------------------------------------------------------
+------------------------------------------------------------------
+
+When To Use Factory Pattern :
+	- The object need to be extended to subclasses 
+	- The classes doesnt know what exact sub-classes it has to create 
+	- The product implementation tend to change over time and Client remain unchanged 
+
+
+------------------------------------------------------------------
+------------------------------------------------------------------
+
+Bussiness Requirment :
+	Diffrentiate Employess as permanent and contract and segregate their pay sales as well as bonus based on
+	their employee types. 

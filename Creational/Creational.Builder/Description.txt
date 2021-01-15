@@ -1,0 +1,44 @@
+﻿
+
+Builder Design Pattern :
+
+	Gang of Four : 
+	"Seperate the construction of complex object from its representation , so that same construction process can
+	 create diffrent representation."
+
+	Builder Pattern solves the situation of increasing consturctor parameters and constructors of a given class
+	by providing step by step initialization of Parameters. After step by step initialization , it returns the resulting
+	constructed object at once . 
+
+------------------------------------------------------------------
+------------------------------------------------------------------
+
+Choose Builder Pattern When :
+	- We need to break up construction of complex object 
+	- We need to create a complex object and it should be independent of the parts that make up the object 
+	- The construction process must allow multiple representation of of same class . 
+
+
+
+------------------------------------------------------------------
+------------------------------------------------------------------ 
+
+Fluent Builder Design Pattern :
+	- Fluent interface is a method for constructing object oriented APIs , where the readability of the source code 
+	  is close to that of ordinary prose 
+	- Fluent interface is normally implemnted by using method cascading ( concretely method chaining )
+	- Fluent code is much more readable and allows to vary a product internal representation . 
+	- Fluent Encapsulates code for construction and representation and Provides control over steps of an object of 
+	  construction process .
+	- Searching , Sorting , Pagination , Grouping with a blend of LINQ are some of the real world usage of fluent interface
+	in combanation with builder design pattern .
+
+
+Builder Vs Factory and Abstract Factory 
+	- Builder design pattern encapsulates complex creation into a single method .
+	- Builder design pattern focuses on construction of object in a step by step manner where as Abstract factory pattern
+	  is used to solve problems to related to the creation of families of products . 
+	- Builder Design pattern returns the object after step by step construction of the complex object where as in Abstract
+	  factory or Factory pattern , we return created product immidietly.
+	- To conclude , Many application design start with Factory which is less complex and in time they envolve towards 
+	  Abstract Factory and Builder as complexity increases with demand of flexibility 

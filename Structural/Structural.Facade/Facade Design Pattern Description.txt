@@ -1,0 +1,21 @@
+﻿Facade Design Pattern : 
+--------------------------------------------------------------------------
+Evolved from french wor 'facade' which mean 'frontage' or 'face' 
+	
+	"Provide a unified interface to set of interfaces in a subsystem.
+	 Facade defines a higher lever interface that makes the subsytem easier to use"
+
+Facade is a structural design pattern that provides a simplified interface to a library, 
+a framework, or any other complex set of classes.
+
+Facade knows which systems and which subsystems are responsible for a request. 
+
+-------------------------------------------------------------------------
+Choose Facade Design Pattern When : 
+	- We want to provide a simple interface to a complex subsystem. Subsystem often get more 
+	  complex as they evolve.
+	- There are many dependencies between clients and the implementation classes of an abstraction.
+	- We want to layer the subsystems. Use a facade to an entery point to each subsystem level. 
+
+
+https://refactoring.guru/design-patterns/composite

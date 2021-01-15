@@ -1,0 +1,72 @@
+﻿
+
+Singelton Pattern :
+
+This pattern is used when we need to ensure that only one object of prticular class need to be created .
+All further references to the object are referred to the same underlying instance created.
+
+Singleton controls concurrent access to the resource.
+Its ensures there is only one object avabilible across the application in controlled state . 
+
+------------------------------------------------------------------
+------------------------------------------------------------------
+
+Double lock Check ::
+---------------------------------------------
+
+private static object obj = new object() ; // lock object 
+
+if(instance == null){
+	loc(lockObject)
+	{
+		if(instance == null)
+			instace = new Singleton();
+	}
+}
+
+------------------------------------------------------------------
+-----------------------------------------------------------------
+
+Lazy Loading : 
+	- Improve the performance 
+	- Avoid unneccassry load till the point object is accessed 
+	- Reduces the memory footprint on the start-up
+	- Faster application load 
+	
+Non-Lazy or Eager Loading 
+	- Pre-Installation of the object 
+	- Commonly used in lower memory footprints
+
+-----------------------------------------------------------------
+------------------------------------------------------------------
+
+Lazy<T> type provide support ways to lazy initialization of object
+
+
+by default , Lazy<T> object are thread safe 
+
+------------------------------------------------------------------
+------------------------------------------------------------------
+
+Static vs Singleton :
+---------------------------------------------
+	- static is a keyword but Singleton is design pattern .
+	- Static class can contain only static members.
+	- Singleton is an object creational pattern with one instance of of the class.
+	- Singelton can implement interfaces , inherit from other classes and it aligns with Object Oriented Programing concepts.
+	- Singelton can be passed as reference.
+	- Singelton support object disposal. 
+	- Singelton object are stored on the heap . static class are stored in statck 
+	- Singelton object can be cloned . 
+
+---------------------------------------------
+Singleton Real World Usages : 
+	- Logging 
+	- Managing Connection or a pool of connection to Database.
+	- Printer Spooling.
+	- File .
+	- Configuration . 
+	- Cache . 
+	- Session based Shopping Cart.
+
+	 

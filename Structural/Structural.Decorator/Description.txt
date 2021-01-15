@@ -1,0 +1,28 @@
+﻿The Decorator Pattern (Wrapper)
+------------------------------------------------------------------------------
+
+Gang of Four :
+	"The Decorator pattern attaches additional responsibilites to an object dynamically. Decorator provide
+	flexible alternative to subclassing for extending functionality. " 
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+in other words 
+
+The Decorator pattern , is about using composition to limit inheritance and 
+simplify object relationships to make them more manageable .
+
+
+some times this pattern is called 'Wrapping Pattern' 
+
+---------------------------------------------------------------------
+
+CompactCar -> GetPrice() 
+
+Navigation -> GetPrice() -> Wrapp -> CompactCar 
+
+LeatherSeat -> GetPrice() -> Wrapp -> Navigation 
+
+
+so , now if we want GetPrice() function , we call outer most class function which wrapped inner class object !!! 

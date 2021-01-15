@@ -1,0 +1,67 @@
+﻿Prototype Design Pattern : 
+-------------------------------------------------------------------------	
+	"Prototyp Design Pattern specify the kind of objects to create using a
+	 protoypical instance , and create new objects by compying this prototype"
+
+	instead of creating object from scratch everytime , 
+	you can make copies of an original instance and modify it as required. 
+
+	Prototype is unique among other creational pattern as
+	it doese not require a class but an end object.
+	
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+
+Choose Prototype Design Pattern When :
+	- Creating an object is an expensive operation and it would be more efficient to copy an object.
+	- System should be independent of how its pruducts are created , composed , and represented. 
+	- Object are required that are similar to existing objects. 
+
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+
+Shallow and Deep Copy 
+	The idea of using copy is to create a new object 
+	of the same type without knowing the exact type of the object we are invoking.
+
+Shallow Copy : 
+	Shallow Copy , copies an object's value type fields into the target object and 
+	the object's reference types are copies as references into the target object.
+
+
+creating the required object once and by creating the subsequent required 
+objects by cloning helps reducing the time for creating the objects.
+
+With Prototype design pattern, based on the requirement 
+situations we can save memory by cloning the objects . examples :
+	- Adapting tp clone an object which consist of many string (immutable)
+	  is a good idea than creating an object 
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
+MemberwiseClone and ICloneable Interface 
+
+MemberwiseClone method ( in .net ) 
+	- The MemberwiseClone method is part of System.object and create shawllow copy of the given object . 
+	- MemberwiseClone mehod copies the non static filed of the chosen object into new object.
+	- In the process of copying , if the field is value-type  , a bit by bit copy of the field is perfomed . 
+	  if the field is reference type , the reference is copied but the reference object is not.
+
+
+public class SomeObj {
+	public SomeObj Clone()
+}
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
+ICloneable Interface ( in .net )
+	- The ICloneable interface provides with a customized implemntaion of that creates copy of an existing object .
+	- The ICloneable intervace contains one mehtod , the clone method , which is intended to provide support beyond MemberwiseClone method. 
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
+
+	 
