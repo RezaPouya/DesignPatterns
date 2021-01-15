@@ -86,7 +86,6 @@ C:\Projects_My\DesignPattern.Training\Structural\Structural.Facade\bin\Debug\net
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Facade\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Facade\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Facade\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Projects_My\DesignPattern.Training\Structural\Structural.Facade\obj\Debug\netcoreapp3.1\Structural.Facade.csprojAssemblyReference.cache
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Facade\obj\Debug\netcoreapp3.1\Structural.Facade.AssemblyInfoInputs.cache
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Facade\obj\Debug\netcoreapp3.1\Structural.Facade.AssemblyInfo.cs
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Facade\obj\Debug\netcoreapp3.1\Structural.Facade.csproj.CoreCompileInputs.cache

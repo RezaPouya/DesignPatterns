@@ -1,4 +1,6 @@
-﻿namespace Creational.Factory
+﻿using Creational.Factory.ConcreteContracts;
+
+namespace Creational.Factory
 {
     /// <summary>
     /// Creator

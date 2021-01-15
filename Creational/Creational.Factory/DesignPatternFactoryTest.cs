@@ -1,3 +1,4 @@
+using Creational.Factory.ConcreteClasses;
 using System;
 using Xunit;
 

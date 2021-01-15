@@ -18,6 +18,7 @@ namespace Creational.Singleton
         /// </summary>
         public static int Counter { get; private set; }
 
+        // private constructor
         private PolicyEagerLoadingWithLazyLoading()
         {
             Counter++;

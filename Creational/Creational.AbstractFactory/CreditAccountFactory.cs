@@ -1,4 +1,5 @@
-﻿using Creational.AbstractFactory.Loaning;
+﻿using Creational.AbstractFactory.Enums;
+using Creational.AbstractFactory.Loaning;
 using Creational.AbstractFactory.Saving;
 using System;
 
@@ -6,14 +7,14 @@ namespace Creational.AbstractFactory
 {
     public class CreditAccountFactory : ICreditAccountFactory
     {
-        public override IBankAccount CreateAccount(AccountType accountType, string accountNumber, AccountCatagory accountCatagory)
+        public override IBankAccount CreateAccount(AccountTypeEnum accountType, string accountNumber, AccountCatagoryEnum accountCatagory)
         {
             switch (accountCatagory)
             {
-                case AccountCatagory.Loaning:
+                case AccountCatagoryEnum.Loaning:
                     return this.CreateLoaningAccount(accountType, accountNumber);
 
-                case AccountCatagory.Saving:
+                case AccountCatagoryEnum.Saving:
                     return this.CreateSavingAccount(accountType, accountNumber);
 
                 default: 
@@ -21,7 +22,7 @@ namespace Creational.AbstractFactory
             }
         }
 
-        public override ILoaningAccount CreateLoaningAccount(AccountType accountType, string accountNumber)
+        public override ILoaningAccount CreateLoaningAccount(AccountTypeEnum accountType, string accountNumber)
         {
             ILoaningAccountFactory factory = new LoaningAccountFactory();
 
@@ -29,7 +30,7 @@ namespace Creational.AbstractFactory
                 , accountNumber: accountNumber);
         }
 
-        public override ISavingAccount CreateSavingAccount(AccountType accountType, string accountNumber)
+        public override ISavingAccount CreateSavingAccount(AccountTypeEnum accountType, string accountNumber)
         {
             ISavingAccountFactory factory = new SavingAccountFactory();
 

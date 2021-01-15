@@ -1,4 +1,6 @@
-﻿namespace Creational.Factory.ConcreteClasses
+﻿using Creational.Factory.ConcreteContracts;
+
+namespace Creational.Factory.ConcreteClasses
 {
     // Concrete ( Real ) Product
     public class PersonalAccount : ISavingAccount

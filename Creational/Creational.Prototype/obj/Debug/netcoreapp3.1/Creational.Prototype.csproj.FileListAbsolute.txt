@@ -86,7 +86,6 @@ C:\Projects_My\DesignPattern.Training\Creational\Creational.Prototype\bin\Debug\
 C:\Projects_My\DesignPattern.Training\Creational\Creational.Prototype\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Projects_My\DesignPattern.Training\Creational\Creational.Prototype\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Projects_My\DesignPattern.Training\Creational\Creational.Prototype\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Projects_My\DesignPattern.Training\Creational\Creational.Prototype\obj\Debug\netcoreapp3.1\Creational.Prototype.csprojAssemblyReference.cache
 C:\Projects_My\DesignPattern.Training\Creational\Creational.Prototype\obj\Debug\netcoreapp3.1\Creational.Prototype.AssemblyInfoInputs.cache
 C:\Projects_My\DesignPattern.Training\Creational\Creational.Prototype\obj\Debug\netcoreapp3.1\Creational.Prototype.AssemblyInfo.cs
 C:\Projects_My\DesignPattern.Training\Creational\Creational.Prototype\obj\Debug\netcoreapp3.1\Creational.Prototype.csproj.CoreCompileInputs.cache

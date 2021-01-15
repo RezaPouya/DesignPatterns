@@ -1,4 +1,5 @@
 ﻿using Creational.Factory.ConcreteClasses;
+using Creational.Factory.ConcreteContracts;
 using System;
 
 namespace Creational.Factory

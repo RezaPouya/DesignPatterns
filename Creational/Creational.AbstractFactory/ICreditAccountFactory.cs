@@ -1,4 +1,5 @@
-﻿using Creational.AbstractFactory.Loaning;
+﻿using Creational.AbstractFactory.Enums;
+using Creational.AbstractFactory.Loaning;
 using Creational.AbstractFactory.Saving;
 using System;
 
@@ -12,14 +13,14 @@ namespace Creational.AbstractFactory
         /// <summary>
         /// main method 
         /// </summary>s
-        public abstract IBankAccount CreateAccount(AccountType accountType
+        public abstract IBankAccount CreateAccount(AccountTypeEnum accountType
             , string accountNumber
-            , AccountCatagory accountCatagory);
+            , AccountCatagoryEnum accountCatagory);
         
-        public abstract ILoaningAccount CreateLoaningAccount(AccountType accountType
+        public abstract ILoaningAccount CreateLoaningAccount(AccountTypeEnum accountType
             , string accountNumber);
 
-        public abstract ISavingAccount CreateSavingAccount(AccountType accountType
+        public abstract ISavingAccount CreateSavingAccount(AccountTypeEnum accountType
             , string accountNumber);
     }
 }

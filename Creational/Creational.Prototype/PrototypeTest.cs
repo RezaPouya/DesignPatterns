@@ -16,6 +16,7 @@ namespace Creational.Prototype
                 new Job{ Order = 1 , Company = "Dadeh Kavi Behbahan" , Role = "FullStack Developer"},
                 new Job{ Order = 2 , Company = "Shabakeh Gostar Sanam Behbahan" , Role = "FullStack Developer"},
                 new Job{ Order = 3 , Company = "Navoshgaran Asr-e- Parseh Tehran" , Role = "Backend Developer"},
+                new Job{ Order = 3 , Company = "Jobvision" , Role = "Backend Developer"},
             }
         };
 

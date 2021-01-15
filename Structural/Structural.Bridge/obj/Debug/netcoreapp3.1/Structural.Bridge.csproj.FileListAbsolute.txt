@@ -86,7 +86,6 @@ C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\bin\Debug\net
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\obj\Debug\netcoreapp3.1\Structural.Bridge.csprojAssemblyReference.cache
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\obj\Debug\netcoreapp3.1\Structural.Bridge.AssemblyInfoInputs.cache
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\obj\Debug\netcoreapp3.1\Structural.Bridge.AssemblyInfo.cs
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\obj\Debug\netcoreapp3.1\Structural.Bridge.csproj.CoreCompileInputs.cache
@@ -94,3 +93,4 @@ C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\obj\Debug\net
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\obj\Debug\netcoreapp3.1\Structural.Bridge.dll
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\obj\Debug\netcoreapp3.1\Structural.Bridge.pdb
 C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\obj\Debug\netcoreapp3.1\Structural.Bridge.genruntimeconfig.cache
+C:\Projects_My\DesignPattern.Training\Structural\Structural.Bridge\obj\Debug\netcoreapp3.1\Structural.Bridge.csprojAssemblyReference.cache

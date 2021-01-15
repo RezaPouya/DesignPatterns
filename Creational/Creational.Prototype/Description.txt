@@ -1,7 +1,7 @@
 ﻿Prototype Design Pattern : 
 -------------------------------------------------------------------------	
 	"Prototyp Design Pattern specify the kind of objects to create using a
-	 protoypical instance , and create new objects by compying this prototype"
+	 protoypical instance , and create new objects by copying this prototype"
 
 	instead of creating object from scratch everytime , 
 	you can make copies of an original instance and modify it as required. 

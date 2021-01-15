@@ -13,6 +13,7 @@
         /// </summary>
         public static int Counter { get; private set; }
 
+        // private constructor
         private PolicyEagerLoading()
         {
             Counter++;
