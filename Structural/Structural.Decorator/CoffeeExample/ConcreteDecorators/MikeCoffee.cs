@@ -6,7 +6,7 @@ namespace Structural.Decorator.CoffeeExample.ConcreteDecorators
 {
     class MikeCoffee : CondimentDecorator
     {
-        protected Coffee _coffee;
+        //protected Coffee _coffee;
 
         public MikeCoffee(Coffee coffee) : base(coffee)
         {
@@ -14,7 +14,7 @@ namespace Structural.Decorator.CoffeeExample.ConcreteDecorators
 
         public override string GetDescription() => $"{_coffee.GetDescription()} Milk";
 
-        public override double Cost() => _coffee.Cost() + 0.1;
+        public override decimal Cost() => _coffee.Cost() + 0.1M;
     }
 }
 

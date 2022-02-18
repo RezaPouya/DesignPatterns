@@ -11,7 +11,7 @@ namespace Structural.Decorator.CoffeeExample.ConcreteComponents
             Description = "Espresso Coffee";
         }
 
-        public override double Cost() => 1.30;
+        public override decimal Cost() => 1.30M;
 
         public override string GetDescription() => this.Description;
         

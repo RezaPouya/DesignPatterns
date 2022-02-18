@@ -11,6 +11,6 @@
 
         public override string GetDescription() => _coffee.GetDescription();
 
-        public override double Cost() => _coffee.Cost();
+        public override decimal Cost() => _coffee.Cost();
     }
 }

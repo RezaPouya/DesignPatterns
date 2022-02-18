@@ -12,14 +12,18 @@ namespace Structural.Adapter
         {
             // Arrange 
             EmployeeManager manger = new EmployeeManager();
+
             EmployeeAdapter adapter = new EmployeeAdapter();
 
             // Act 
             var listOfEmployees = manger.GetAllEmployees();
+
             Assert.Contains("Reza" ,listOfEmployees);
 
             // Assert 
             var result = adapter.GetAllEmployees();
+
+            Assert.Contains("Research and Development", result); 
         }
     }
 }

@@ -10,7 +10,7 @@ namespace Structural.Decorator.CoffeeExample
 
         public abstract string GetDescription();
 
-        public abstract double Cost();
+        public abstract decimal Cost();
     }
 
 

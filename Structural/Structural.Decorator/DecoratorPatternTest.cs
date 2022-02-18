@@ -60,7 +60,7 @@ namespace Structural.Decorator.Test
             var price = coffee.Cost();
 
             // assert
-            Assert.Equal(1.30, price);
+            Assert.Equal(1.30M, price);
         }
 
         [Fact]
@@ -68,12 +68,14 @@ namespace Structural.Decorator.Test
         {
             // arrange
             EspressoCoffee coffee = new EspressoCoffee();
+            
             MikeCoffee milkCoffee = new MikeCoffee(coffee);
+
             // act
             var price = milkCoffee.Cost();
 
             // assert
-            Assert.Equal(1.40, price);
+            Assert.Equal(1.40M, price);
         }
     }
 }

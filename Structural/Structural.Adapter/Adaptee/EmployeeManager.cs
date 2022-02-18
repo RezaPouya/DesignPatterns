@@ -10,7 +10,7 @@ namespace Structural.Adapter.Adaptee
             this.DepartmentName = "Research and Development";
             this.Employees = new List<Employee>
             {
-                new Employee("Reza" , "Puoya"),
+                new Employee("Reza" , "Pouya"),
                 new Employee("Ali"  , "Alawi"),
                 new Employee("Hassan" , "Hassani")
             };
@@ -24,6 +24,7 @@ namespace Structural.Adapter.Adaptee
         public virtual string GetAllEmployees()
         {
             StringBuilder message = new StringBuilder();
+
             message.AppendLine($"List of Employees of Department of {DepartmentName} :");
             message.AppendLine("-----------------------------------------------------------");
             message.AppendLine("Id\t\t\t - First Name \t - Last Name ");
