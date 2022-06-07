@@ -12,10 +12,4 @@ namespace Structural.Decorator.CoffeeExample
 
         public abstract decimal Cost();
     }
-
-
-    public abstract class CodimentDecorator : Coffee
-    {
-
-    }
 }
