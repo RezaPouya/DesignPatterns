@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ppdOwL47wLjeEpu1TBlZyCh33X6I/THS1u/0IaTqpWFi9GVmkI+79eaWzVFhuqQevxmXcminp5LcyLuoixLeA==",
+  "dgSpecHash": "YXcx5OKf/Y99Uxn/QDlxmK3WTXnG2Qi78GXj7zE7hQypmIaur0PV5w/BrD1rRxb9V9sPi2A0X9bxGNodwQj+SA==",
   "success": true,
-  "projectFilePath": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Proxy\\Structural.Proxy.csproj",
+  "projectFilePath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Proxy\\Structural.Proxy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\r.pouya\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\r.pouya\\.nuget\\packages\\microsoft.codecoverage\\17.2.0\\microsoft.codecoverage.17.2.0.nupkg.sha512",

@@ -5979,11 +5979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Facade\\Structural.Facade.csproj",
+      "projectUniqueName": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Facade\\Structural.Facade.csproj",
       "projectName": "Structural.Facade",
-      "projectPath": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Facade\\Structural.Facade.csproj",
+      "projectPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Facade\\Structural.Facade.csproj",
       "packagesPath": "C:\\Users\\r.pouya\\.nuget\\packages\\",
-      "outputPath": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Facade\\obj\\",
+      "outputPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Facade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

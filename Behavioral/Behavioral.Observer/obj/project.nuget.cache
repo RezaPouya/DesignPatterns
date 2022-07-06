@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RvB2N1jEnCo/NeLO/QV4QV9LLcq4AL9v2KR1mxjvEmjGQC71ht18LT7ZHeK3YoUb+URUSLinhBNDwUlOcjylaw==",
+  "dgSpecHash": "83noLfqGOEXwBg/YW3FsC+Lwhhd7GQ3hM/MW3FFj4qe2S+7baQHFoIzrewgiiurcqwk/ZI4GIQ8f2WGuRwjeGw==",
   "success": true,
-  "projectFilePath": "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.Observer\\Behavioral.Observer.csproj",
+  "projectFilePath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.Observer\\Behavioral.Observer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\r.pouya\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\r.pouya\\.nuget\\packages\\microsoft.codecoverage\\17.2.0\\microsoft.codecoverage.17.2.0.nupkg.sha512",

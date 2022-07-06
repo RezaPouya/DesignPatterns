@@ -5979,11 +5979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Adapter\\Structural.Adapter.csproj",
+      "projectUniqueName": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Adapter\\Structural.Adapter.csproj",
       "projectName": "Structural.Adapter",
-      "projectPath": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Adapter\\Structural.Adapter.csproj",
+      "projectPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Adapter\\Structural.Adapter.csproj",
       "packagesPath": "C:\\Users\\r.pouya\\.nuget\\packages\\",
-      "outputPath": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Adapter\\obj\\",
+      "outputPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Adapter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

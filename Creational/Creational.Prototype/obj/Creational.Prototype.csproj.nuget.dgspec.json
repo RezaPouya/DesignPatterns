@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Prototype\\Creational.Prototype.csproj": {}
+    "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Prototype\\Creational.Prototype.csproj": {}
   },
   "projects": {
-    "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Prototype\\Creational.Prototype.csproj": {
+    "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Prototype\\Creational.Prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Prototype\\Creational.Prototype.csproj",
+        "projectUniqueName": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Prototype\\Creational.Prototype.csproj",
         "projectName": "Creational.Prototype",
-        "projectPath": "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Prototype\\Creational.Prototype.csproj",
+        "projectPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Prototype\\Creational.Prototype.csproj",
         "packagesPath": "C:\\Users\\r.pouya\\.nuget\\packages\\",
-        "outputPath": "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Prototype\\obj\\",
+        "outputPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Prototype\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

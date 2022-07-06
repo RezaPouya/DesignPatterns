@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Composite\\Structural.Composite.csproj": {}
+    "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Composite\\Structural.Composite.csproj": {}
   },
   "projects": {
-    "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Composite\\Structural.Composite.csproj": {
+    "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Composite\\Structural.Composite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Composite\\Structural.Composite.csproj",
+        "projectUniqueName": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Composite\\Structural.Composite.csproj",
         "projectName": "Structural.Composite",
-        "projectPath": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Composite\\Structural.Composite.csproj",
+        "projectPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Composite\\Structural.Composite.csproj",
         "packagesPath": "C:\\Users\\r.pouya\\.nuget\\packages\\",
-        "outputPath": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Composite\\obj\\",
+        "outputPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Composite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

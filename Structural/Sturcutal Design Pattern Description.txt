@@ -1,5 +1,6 @@
 Structural Design Pattern :
 ---------------------------------------------------------------------------------------------------------
+	- explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 	- Structural Design Patterns are design patterns that ease 
 	  the design by idnetifying a simple way to realize repaltionships between entities .
 	- Flexible interconnecting modules which can work together in large system.

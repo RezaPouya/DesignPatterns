@@ -5979,11 +5979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Builder\\Creational.Builder.csproj",
+      "projectUniqueName": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Builder\\Creational.Builder.csproj",
       "projectName": "Creational.Builder",
-      "projectPath": "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Builder\\Creational.Builder.csproj",
+      "projectPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Builder\\Creational.Builder.csproj",
       "packagesPath": "C:\\Users\\r.pouya\\.nuget\\packages\\",
-      "outputPath": "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Builder\\obj\\",
+      "outputPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Builder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

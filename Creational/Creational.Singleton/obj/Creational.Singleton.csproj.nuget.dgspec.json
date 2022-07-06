@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Singleton\\Creational.Singleton.csproj": {}
+    "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Singleton\\Creational.Singleton.csproj": {}
   },
   "projects": {
-    "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Singleton\\Creational.Singleton.csproj": {
+    "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Singleton\\Creational.Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Singleton\\Creational.Singleton.csproj",
+        "projectUniqueName": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Singleton\\Creational.Singleton.csproj",
         "projectName": "Creational.Singleton",
-        "projectPath": "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Singleton\\Creational.Singleton.csproj",
+        "projectPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Singleton\\Creational.Singleton.csproj",
         "packagesPath": "C:\\Users\\r.pouya\\.nuget\\packages\\",
-        "outputPath": "C:\\Reviews\\DesignPatterns\\Creational\\Creational.Singleton\\obj\\",
+        "outputPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

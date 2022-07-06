@@ -5979,11 +5979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Reviews\\DesignPatterns\\Creational\\Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
+      "projectUniqueName": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
       "projectName": "Creational.AbstractFactory",
-      "projectPath": "C:\\Reviews\\DesignPatterns\\Creational\\Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
+      "projectPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.AbstractFactory\\Creational.AbstractFactory.csproj",
       "packagesPath": "C:\\Users\\r.pouya\\.nuget\\packages\\",
-      "outputPath": "C:\\Reviews\\DesignPatterns\\Creational\\Creational.AbstractFactory\\obj\\",
+      "outputPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Creational\\Creational.AbstractFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

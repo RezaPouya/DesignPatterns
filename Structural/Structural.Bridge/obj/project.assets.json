@@ -5979,11 +5979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Bridge\\Structural.Bridge.csproj",
+      "projectUniqueName": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Bridge\\Structural.Bridge.csproj",
       "projectName": "Structural.Bridge",
-      "projectPath": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Bridge\\Structural.Bridge.csproj",
+      "projectPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Bridge\\Structural.Bridge.csproj",
       "packagesPath": "C:\\Users\\r.pouya\\.nuget\\packages\\",
-      "outputPath": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Bridge\\obj\\",
+      "outputPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Bridge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.Strategy\\Behavioral.Strategy.csproj": {}
+    "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.Strategy\\Behavioral.Strategy.csproj": {}
   },
   "projects": {
-    "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.Strategy\\Behavioral.Strategy.csproj": {
+    "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.Strategy\\Behavioral.Strategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.Strategy\\Behavioral.Strategy.csproj",
+        "projectUniqueName": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.Strategy\\Behavioral.Strategy.csproj",
         "projectName": "Behavioral.Strategy",
-        "projectPath": "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.Strategy\\Behavioral.Strategy.csproj",
+        "projectPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.Strategy\\Behavioral.Strategy.csproj",
         "packagesPath": "C:\\Users\\r.pouya\\.nuget\\packages\\",
-        "outputPath": "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.Strategy\\obj\\",
+        "outputPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.Strategy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

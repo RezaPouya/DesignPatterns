@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.Iterator\\Behavioral.Iterator.csproj": {}
+    "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.Iterator\\Behavioral.Iterator.csproj": {}
   },
   "projects": {
-    "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.Iterator\\Behavioral.Iterator.csproj": {
+    "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.Iterator\\Behavioral.Iterator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.Iterator\\Behavioral.Iterator.csproj",
+        "projectUniqueName": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.Iterator\\Behavioral.Iterator.csproj",
         "projectName": "Behavioral.Iterator",
-        "projectPath": "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.Iterator\\Behavioral.Iterator.csproj",
+        "projectPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.Iterator\\Behavioral.Iterator.csproj",
         "packagesPath": "C:\\Users\\r.pouya\\.nuget\\packages\\",
-        "outputPath": "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.Iterator\\obj\\",
+        "outputPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.Iterator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

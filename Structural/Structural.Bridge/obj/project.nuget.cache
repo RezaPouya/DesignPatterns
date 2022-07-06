@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HgYgGlh3HCOdunrWPjSsf4FKCufQ3GdZ0JeHDuy9k5X95aQcfUqNhPgEClHJD1S3+FleEOPHY8GdQ3jloW0Uug==",
+  "dgSpecHash": "UQ2BdXuE3r8uGl8kmbAwIiitEmeo1A46W7Sxvh51oaIeXCNu8JDMylR1eUAXzgDKbnSVJuywBu4z34KGq66FOw==",
   "success": true,
-  "projectFilePath": "C:\\Reviews\\DesignPatterns\\Structural\\Structural.Bridge\\Structural.Bridge.csproj",
+  "projectFilePath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Structural\\Structural.Bridge\\Structural.Bridge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\r.pouya\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\r.pouya\\.nuget\\packages\\microsoft.codecoverage\\17.2.0\\microsoft.codecoverage.17.2.0.nupkg.sha512",

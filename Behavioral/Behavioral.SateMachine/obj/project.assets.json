@@ -5979,11 +5979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.SateMachine\\Behavioral.StateMachine.csproj",
+      "projectUniqueName": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.SateMachine\\Behavioral.StateMachine.csproj",
       "projectName": "Behavioral.StateMachine",
-      "projectPath": "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.SateMachine\\Behavioral.StateMachine.csproj",
+      "projectPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.SateMachine\\Behavioral.StateMachine.csproj",
       "packagesPath": "C:\\Users\\r.pouya\\.nuget\\packages\\",
-      "outputPath": "C:\\Reviews\\DesignPatterns\\Behavioral\\Behavioral.SateMachine\\obj\\",
+      "outputPath": "C:\\Users\\r.pouya\\Desktop\\Projects\\DesignPatterns\\Behavioral\\Behavioral.SateMachine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
