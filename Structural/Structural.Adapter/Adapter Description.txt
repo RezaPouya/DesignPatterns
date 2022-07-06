@@ -1,23 +1,23 @@
 
 Adapter Desing Pattern :
 ----------------------------------------------------------------------------
-	"Match interfaces of diffrent classes" 
+	"Match interfaces of different classes" 
 
 	And adapter allows two incompatible interfaces to work together . 
 
 	Adapter pattern allows incompatible classes to interact with each other by
 	converting the interface of on class to into interface of excepted  by the client.
 
-	leverage on Adapter improve reusablity of older functionality .
+	leverage on Adapter improve reusability of older functionality .
 
 
 Chose Adapter interface when :
 ---------------------------------------------------------------------------
-	- A class need to be reused which doese not have interface . 
-	- We need to work through seperate Adapter that adapts the interface of existing
+	- A class need to be reused which does not have interface . 
+	- We need to work through separate Adapter that adapts the interface of existing
 	  class without changing it .
 	- Client don't know weather they work with a target class directly or through another
-	  alternative that doese not have target interface .
+	  alternative that does not have target interface .
 
 
 	The Ac Adapter is best example of Adapter . 

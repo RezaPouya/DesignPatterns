@@ -9,7 +9,7 @@ namespace Structural.Composite
         [Fact]
         public void Test1()
         {
-            Manager manager = new Manager("Mohammad", "Muhammadi", "Banu Hashem");
+            Manager manager = new Manager("Mohammad", "Muhammadi", "IT");
             manager.GetDetails();
             var detail = manager.Detail;
         }

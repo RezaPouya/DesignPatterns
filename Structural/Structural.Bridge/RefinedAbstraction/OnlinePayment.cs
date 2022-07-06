@@ -8,7 +8,7 @@ namespace Structural.Bridge
     {
         public override void MakePayment()
         {
-            _paymentSystem.ProcessPayment("Online");
+            PaymentSystem.ProcessPayment("Online");
         }
     }
 }

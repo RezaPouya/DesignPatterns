@@ -2,7 +2,7 @@
 ------------------------------------------------------------------------------
 
 Gang of Four :
-	"The Decorator pattern attaches additional responsibilites to an object dynamically. Decorator provide
+	"The Decorator pattern attaches additional responsibilities to an object dynamically. Decorator provide
 	flexible alternative to subclassing for extending functionality. " 
 
 ------------------------------------------------------------------------------

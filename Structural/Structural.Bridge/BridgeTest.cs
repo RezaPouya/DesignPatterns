@@ -10,13 +10,13 @@ namespace Structural.Bridge
         {
             // Arrange
             Payment payment = GetPayment("Online");
-            payment._paymentSystem = GetPaymentSytem("Sadad");
+            payment.PaymentSystem = GetPaymentSytem("Sadad");
 
             // Act
             payment.MakePayment();
 
             // Assert
-            Assert.Equal("The Online payment is done via Sadad payment system", payment._paymentSystem.message);
+            Assert.Equal("The Online payment is done via Sadad payment system", payment.PaymentSystem.message);
 
         }
 

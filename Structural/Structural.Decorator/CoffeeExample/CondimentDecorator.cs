@@ -1,6 +1,6 @@
 ﻿namespace Structural.Decorator.CoffeeExample
 {
-    public abstract class CondimentDecorator : Coffee
+    public abstract class  CondimentDecorator : Coffee
     {
         protected Coffee _coffee;
 

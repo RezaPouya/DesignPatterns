@@ -6,7 +6,7 @@ namespace Structural.Bridge
 {
     public abstract class Payment
     {
-        public IPaymentSystem _paymentSystem; 
+        public IPaymentSystem PaymentSystem; 
         public abstract void MakePayment();
     }
 }
